@@ -152,7 +152,7 @@ body {
 }
 .poster-wrapper {
   display: flex;
-  align-items: start;
+  align-items: flex-start;
 }
 .poster {
   width: 362px;
